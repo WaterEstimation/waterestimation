@@ -2,7 +2,7 @@
 El presente Software tiene la capacidad de estimar los metros cuadrados de lluvia de una determinada area en base a los datos de un pluviometro.
 
 ##Integrantes
-1. Esteban Agustin Penados Betancourt- 24045
+1. Esteban Agustin Penados Betancourt-24045
 2. Laura Maria Galvez Regalado- 24021
 3. Angie Aracelly Castellanos Fuentes- 24264
 4. Genesis Liliana Alvarenga Zeron- 24004
