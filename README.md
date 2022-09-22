@@ -1,9 +1,6 @@
 # waterestimation
 El presente Software tiene la capacidad de estimar los metros cuadrados de lluvia de una determinada area en base a los datos de un pluviometro.
 
-# waterestimation
-El presente Software tiene la capacidad de estimar los metros cuadrados de lluvia de una determinada area en base a los datos de un pluviometro.
-
 ## Problema
 En la actualidad existen nyevos aparatos tecnologicos que por medio de sensores determinna la humedad. Sin embargo, los metodos tradicionales requieren una considerable inversion de tiempo por medio de herramientas como Excle. De esta forma, este pryecto automatiza en analisis de datos sobre lotes y humedad en el suelo de varios puntos para detectar problemas de humedad en distintas temporadas.
 
