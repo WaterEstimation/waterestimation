@@ -2,10 +2,10 @@
 El presente Software tiene la capacidad de estimar los metros cuadrados de lluvia de una determinada area en base a los datos de un pluviometro.
 
 ## Problema
-En la actualidad existen nyevos aparatos tecnologicos que por medio de sensores determinna la humedad. Sin embargo, los metodos tradicionales requieren una considerable inversion de tiempo por medio de herramientas como Excle. De esta forma, este pryecto automatiza en analisis de datos sobre lotes y humedad en el suelo de varios puntos para detectar problemas de humedad en distintas temporadas.
+En la actualidad existen nyevos aparatos tecnologicos que por medio de sensores determinna la precipitacion. Sin embargo, los metodos tradicionales requieren una considerable inversion de tiempo por medio de herramientas como Excle. De esta forma, este pryecto automatiza en analisis de datos sobre lotes y precipitacion en el suelo de varios puntos para detectar problemas de humedad en distintas temporadas.
 
 ## Solucion de Problema
-Proporcionar al usuario una manera mas comoda y automatizada para verificar los datos utilizandolos para analizarlos ahorrandose tiempo detectando los datos en lugares especificos por medio de los sensores y realizando correcciones de humedad, esto hace que tengamos una humedad homogenea en todo momento garantizando mayor eficiencia en nuestro riego
+Proporcionar al usuario una manera mas comoda y automatizada para verificar los datos utilizandolos para analizarlos ahorrandose tiempo detectando los datos en lugares especificos por medio de los sensores y realizando una mejor proyeccion de la precipitacion, esto hace que tengamos una precipitacion homogenea en todo momento garantizando mayor eficiencia en nuestro riego
 
 ## Objetivos
 Creacion de repositorio de codigo fuente para el proyecto Water Estimation.
